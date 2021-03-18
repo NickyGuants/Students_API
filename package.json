@@ -2,9 +2,9 @@
   "name": "Students_API",
   "version": "1.0.0",
   "description": "This is a student api that manages student resources such as courses and personal details.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
