@@ -1,0 +1,24 @@
+{
+  "name": "Students_API",
+  "version": "1.0.0",
+  "description": "This is a student api that manages student resources such as courses and personal details.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickyGuants/Students_API.git"
+  },
+  "keywords": [],
+  "author": "Nicky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickyGuants/Students_API/issues"
+  },
+  "homepage": "https://github.com/NickyGuants/Students_API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
